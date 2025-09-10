@@ -1,3 +1,4 @@
+//17. Write a program to check whether a number is a multiple of 2, 3, both, or none. //
 import java.util.Scanner;
 public class MultipleOrNot {
     public static void main(String[] args) {
