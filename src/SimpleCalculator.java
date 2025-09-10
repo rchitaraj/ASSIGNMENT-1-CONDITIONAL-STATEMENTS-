@@ -1,3 +1,4 @@
+//13. Write a program to create a simple calculator using a switch statement (+, -, *, /).//
 import java.util.Scanner;
 public class SimpleCalculator {
     public static void main(String[] args) {
