@@ -1,3 +1,4 @@
+//15. Write a program to check whether a student has passed or failed (pass marks ≥ 40).//
 import java.util.Scanner;
 public class PassOrFail {
     public static void main(String[] args) {
