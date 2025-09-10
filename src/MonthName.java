@@ -1,3 +1,4 @@
+//12. Write a program to display the month name using a switch statement. //
 import java.util.Scanner;
 public class MonthName {
     public static void main(String[] args) {
