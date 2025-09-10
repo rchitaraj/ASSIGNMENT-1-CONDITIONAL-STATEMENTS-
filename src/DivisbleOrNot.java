@@ -1,3 +1,4 @@
+//14. Write a program to check whether a given number is greater than 100 and divisible by3.//
 import java.util.Scanner;
 public class DivisbleOrNot {
     public static void main(String[] args) {
