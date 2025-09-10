@@ -1,3 +1,4 @@
+//10. Write a program to check whether a number is a two-digit number or not. //
 import java.util.Scanner;
 public class TwoDigitNumberValidity {
     public static void main(String[] args) {
