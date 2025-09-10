@@ -1,3 +1,5 @@
+//18. Write a program to check whether a given number is a palindrome number or not (using if-else). //
+
 import java.util.Scanner;
 public class PalindromeNumber {
     public static void main(String[] args) {
