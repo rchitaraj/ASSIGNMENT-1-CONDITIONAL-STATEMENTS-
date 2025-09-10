@@ -1,3 +1,5 @@
+//19. Write a program to check whether a given character is uppercase, lowercase, or not an alphabet.// 
+
 import java.util.Scanner;
 public class AlphabetOrNot {
     public static void main(String[] args) {
