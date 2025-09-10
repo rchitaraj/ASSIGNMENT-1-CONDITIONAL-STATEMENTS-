@@ -1,3 +1,4 @@
+//11. Write a program to display the day of the week using a switch statement (1 →Sunday, ..., 7 → Saturday). //
 import java.util.Scanner;
 public class DayOfTheWeek {
     public static void main(String[] args) {
