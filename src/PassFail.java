@@ -1,3 +1,5 @@
+//20. Write a program to input the marks of 3 subjects and print whether the student has passed (all ≥ 40) or failed.//
+
 import java.util.Scanner;
 public class PassFail {
     public static void main(String[] args) {
